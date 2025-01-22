@@ -1,9 +1,9 @@
 # Site settings
 title: Hux Blog
-SEOTitle: 100PLUS | 100PLUS Blog
+SEOTitle: 100PLUS.top
 header-img: img/home-bg.jpg
-email: 
-description: "这里是100PLUS 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+email: tyminye@gmail.com
+description: "这里是100PLUS 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的企业家"
 keyword: "100PLUS, Hux, 鬼栈, huxpro, @huxpro, 100PLUS,"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
