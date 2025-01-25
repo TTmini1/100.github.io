@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[ 100PLUS](100PLUS.TOP)
 ================================
 
 > I never expected this to become popular.
