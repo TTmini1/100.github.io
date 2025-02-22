@@ -1,1 +1,34 @@
+# 商品展示页数据
+products:
+  - id: 1
+    name: "智能门锁"
+    price: 199.99
+    description: "支持指纹识别、密码开锁和远程控制。"
+    image: "https://example.com/images/smartlock.jpg"
+    features:
+      - "指纹识别技术"
+      - "远程APP控制"
+      - "防撬报警功能"
+    available: true
 
+  - id: 2
+    name: "无线耳机"
+    price: 129.99
+    description: "主动降噪，高保真音质，蓝牙5.0连接。"
+    image: "https://example.com/images/earbuds.jpg"
+    features:
+      - "主动降噪技术"
+      - "长达20小时播放时间"
+      - "IPX4防水等级"
+    available: true
+
+  - id: 3
+    name: "笔记本电脑"
+    price: 899.99
+    description: "轻薄设计，高性能处理器，适合办公和娱乐。"
+    image: "https://example.com/images/laptop.jpg"
+    features:
+      - "15.6英寸全高清屏幕"
+      - "Intel Core i7处理器"
+      - "512GB SSD存储"
+    available: false
