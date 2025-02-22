@@ -23,7 +23,7 @@ products:
     available: true
 
   - id: 3
-    name: "笔记本电脑"
+    name: "笔记本"
     price: 899.99
     description: "轻薄设计，高性能处理器，适合办公和娱乐。"
     image: "https://example.com/images/laptop.jpg"
